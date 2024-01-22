@@ -1,3 +1,7 @@
-- 👋 Hi, I’m @TLB30
-- 👀 I’m interested in AI , frontend , web devolopment
-- 🌱 I love to learn new technolegies and make friends along the way. 
+- 👋 name is Ali
+- 🗿 I can enjoy AI if it doesn't take my job
+- 🫠 Back end is hard but i'm gonna learn it
+- 😵‍💫 I learned a bit of wordpress and am so sad i can design better websites without coding
+- 🐈 I really don't understand the dog people
+- 🥰 if you love cats and coding hit me up lets be friends
+- 🤓 if you have the time i would really appreciate feedback on my projects
